@@ -4,12 +4,13 @@
             "overwrite": false,
             "hash": "c096eb49d5b446086797cb54ecd5041c9d1c405091bfccfc4d6d878a01efbc69"
         },
-        "index.js": "22d5e0f73c2b306708a98bf368b2d381f7ee3efaf4e80b7cd409d174bed500bf",
+        "index.js": "113e5af7605cc1ab7233d35ba47b86c2f7562753eee0d7b341ec212b48086411",
         "module.json": "8848a09d0f5c8b37be55d0421ec6bf4a9aa666b69ed3dfdda37eff7262b0565f",
 		"README.md": "52e0ea85c8bbedb2a75a935b7c956c9a2db41769d6ef3a2ccd3f8cb753c8229d",
 		"settings_migrator.js": "89333753d6c7728035c03231b85cdd78479c6d58e092c22ab80e87dd42b03643"
     },
     "defs": {
+        "S_LOGIN": 13,
         "S_PLAYER_CHANGE_EXP": 1
     }
 }

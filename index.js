@@ -42,7 +42,7 @@ module.exports = function XpInfo(mod) {
         playerExp = null;
     }
     
-	mod.game.on('enter_game', () => {
+	mod.hook('S_LOGIN', 13, (event) => {
         resetMod();
 	})
     
